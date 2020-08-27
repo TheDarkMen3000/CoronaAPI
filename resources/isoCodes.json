@@ -1,0 +1,1006 @@
+[
+    {
+      "Country": "Afghanistan",
+      "IsoCode": "AF"
+    },
+    {
+      "Country": "Albania",
+      "IsoCode": "AL"
+    },
+    {
+      "Country": "Algeria",
+      "IsoCode": "DZ"
+    },
+    {
+      "Country": "American Samoa",
+      "IsoCode": "AS"
+    },
+    {
+      "Country": "Andorra",
+      "IsoCode": "AD"
+    },
+    {
+      "Country": "Angola",
+      "IsoCode": "AO"
+    },
+    {
+      "Country": "Anguilla",
+      "IsoCode": "AI"
+    },
+    {
+      "Country": "Antarctica",
+      "IsoCode": "AQ"
+    },
+    {
+      "Country": "Antigua and Barbuda",
+      "IsoCode": "AG"
+    },
+    {
+      "Country": "Argentina",
+      "IsoCode": "AR"
+    },
+    {
+      "Country": "Armenia",
+      "IsoCode": "AM"
+    },
+    {
+      "Country": "Aruba",
+      "IsoCode": "AW"
+    },
+    {
+      "Country": "Australia",
+      "IsoCode": "AU"
+    },
+    {
+      "Country": "Austria",
+      "IsoCode": "AT"
+    },
+    {
+      "Country": "Azerbaijan",
+      "IsoCode": "AZ"
+    },
+    {
+      "Country": "Bahamas",
+      "IsoCode": "BS"
+    },
+    {
+      "Country": "Bahrain",
+      "IsoCode": "BH"
+    },
+    {
+      "Country": "Bangladesh",
+      "IsoCode": "BD"
+    },
+    {
+      "Country": "Barbados",
+      "IsoCode": "BB"
+    },
+    {
+      "Country": "Belarus",
+      "IsoCode": "BY"
+    },
+    {
+      "Country": "Belgium",
+      "IsoCode": "BE"
+    },
+    {
+      "Country": "Belize",
+      "IsoCode": "BZ"
+    },
+    {
+      "Country": "Benin",
+      "IsoCode": "BJ"
+    },
+    {
+      "Country": "Bermuda",
+      "IsoCode": "BM"
+    },
+    {
+      "Country": "Bhutan",
+      "IsoCode": "BT"
+    },
+    {
+      "Country": "Bolivia",
+      "IsoCode": "BO"
+    },
+    {
+      "Country": "Bonaire, Sint Eustatius and Saba",
+      "IsoCode": "BQ"
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "IsoCode": "BA"
+    },
+    {
+      "Country": "Botswana",
+      "IsoCode": "BW"
+    },
+    {
+      "Country": "Bouvet Island",
+      "IsoCode": "BV"
+    },
+    {
+      "Country": "Brazil",
+      "IsoCode": "BR"
+    },
+    {
+      "Country": "British Indian Ocean Territory (the)",
+      "IsoCode": "IO"
+    },
+    {
+      "Country": "Brunei ",
+      "IsoCode": "BN"
+    },
+    {
+      "Country": "Bulgaria",
+      "IsoCode": "BG"
+    },
+    {
+      "Country": "Burkina Faso",
+      "IsoCode": "BF"
+    },
+    {
+      "Country": "Burundi",
+      "IsoCode": "BI"
+    },
+    {
+      "Country": "Cabo Verde",
+      "IsoCode": "CV"
+    },
+    {
+      "Country": "Cambodia",
+      "IsoCode": "KH"
+    },
+    {
+      "Country": "Cameroon",
+      "IsoCode": "CM"
+    },
+    {
+      "Country": "Canada",
+      "IsoCode": "CA"
+    },
+    {
+      "Country": "Cayman Islands",
+      "IsoCode": "KY"
+    },
+    {
+      "Country": "CAR",
+      "IsoCode": "CF"
+    },
+    {
+      "Country": "Caribbean Netherlands",
+      "IsoCode": "NL"
+    },
+    {
+      "Country": "Chad",
+      "IsoCode": "TD"
+    },
+    {
+      "Country": "Channel Islands",
+      "IsoCode": "GB"
+    },
+    {
+      "Country": "Chile",
+      "IsoCode": "CL"
+    },
+    {
+      "Country": "China",
+      "IsoCode": "CN"
+    },
+    {
+      "Country": "Christmas Island",
+      "IsoCode": "CX"
+    },
+    {
+      "Country": "Cocos (Keeling) Islands (the)",
+      "IsoCode": "CC"
+    },
+    {
+      "Country": "Colombia",
+      "IsoCode": "CO"
+    },
+    {
+      "Country": "Comoros",
+      "IsoCode": "KM"
+    },
+    {
+      "Country": "DRC",
+      "IsoCode": "CD"
+    },
+    {
+      "Country": "Congo",
+      "IsoCode": "CG"
+    },
+    {
+      "Country": "Cook Islands (the)",
+      "IsoCode": "CK"
+    },
+    {
+      "Country": "Costa Rica",
+      "IsoCode": "CR"
+    },
+    {
+      "Country": "Croatia",
+      "IsoCode": "HR"
+    },
+    {
+      "Country": "Cuba",
+      "IsoCode": "CU"
+    },
+    {
+      "Country": "Curaçao",
+      "IsoCode": "CW"
+    },
+    {
+      "Country": "Cyprus",
+      "IsoCode": "CY"
+    },
+    {
+      "Country": "Czechia",
+      "IsoCode": "CZ"
+    },
+    {
+      "Country": "Ivory Coast",
+      "IsoCode": "CI"
+    },
+    {
+      "Country": "Denmark",
+      "IsoCode": "DK"
+    },
+    {
+      "Country": "Djibouti",
+      "IsoCode": "DJ"
+    },
+    {
+      "Country": "Dominica",
+      "IsoCode": "DM"
+    },
+    {
+      "Country": "Dominican Republic",
+      "IsoCode": "DO"
+    },
+    {
+      "Country": "Ecuador",
+      "IsoCode": "EC"
+    },
+    {
+      "Country": "Egypt",
+      "IsoCode": "EG"
+    },
+    {
+      "Country": "El Salvador",
+      "IsoCode": "SV"
+    },
+    {
+      "Country": "Equatorial Guinea",
+      "IsoCode": "GQ"
+    },
+    {
+      "Country": "Eritrea",
+      "IsoCode": "ER"
+    },
+    {
+      "Country": "Estonia",
+      "IsoCode": "EE"
+    },
+    {
+      "Country": "Eswatini",
+      "IsoCode": "SZ"
+    },
+    {
+      "Country": "Ethiopia",
+      "IsoCode": "ET"
+    },
+    {
+      "Country": "Falkland Islands",
+      "IsoCode": "FK"
+    },
+    {
+      "Country": "Faeroe Islands",
+      "IsoCode": "FO"
+    },
+    {
+      "Country": "Fiji",
+      "IsoCode": "FJ"
+    },
+    {
+      "Country": "Finland",
+      "IsoCode": "FI"
+    },
+    {
+      "Country": "France",
+      "IsoCode": "FR"
+    },
+    {
+      "Country": "French Guiana",
+      "IsoCode": "GF"
+    },
+    {
+      "Country": "French Polynesia",
+      "IsoCode": "PF"
+    },
+    {
+      "Country": "French Southern Territories (the)",
+      "IsoCode": "TF"
+    },
+    {
+      "Country": "Gabon",
+      "IsoCode": "GA"
+    },
+    {
+      "Country": "Gambia",
+      "IsoCode": "GM"
+    },
+    {
+      "Country": "Georgia",
+      "IsoCode": "GE"
+    },
+    {
+      "Country": "Germany",
+      "IsoCode": "DE"
+    },
+    {
+      "Country": "Ghana",
+      "IsoCode": "GH"
+    },
+    {
+      "Country": "Gibraltar",
+      "IsoCode": "GI"
+    },
+    {
+      "Country": "Greece",
+      "IsoCode": "GR"
+    },
+    {
+      "Country": "Greenland",
+      "IsoCode": "GL"
+    },
+    {
+      "Country": "Grenada",
+      "IsoCode": "GD"
+    },
+    {
+      "Country": "Guadeloupe",
+      "IsoCode": "GP"
+    },
+    {
+      "Country": "Guam",
+      "IsoCode": "GU"
+    },
+    {
+      "Country": "Guatemala",
+      "IsoCode": "GT"
+    },
+    {
+      "Country": "Guernsey",
+      "IsoCode": "GG"
+    },
+    {
+      "Country": "Guinea",
+      "IsoCode": "GN"
+    },
+    {
+      "Country": "Guinea-Bissau",
+      "IsoCode": "GW"
+    },
+    {
+      "Country": "Guyana",
+      "IsoCode": "GY"
+    },
+    {
+      "Country": "Haiti",
+      "IsoCode": "HT"
+    },
+    {
+      "Country": "Heard Island and McDonald Islands",
+      "IsoCode": "HM"
+    },
+    {
+      "Country": "Vatican City",
+      "IsoCode": "VA"
+    },
+    {
+      "Country": "Honduras",
+      "IsoCode": "HN"
+    },
+    {
+      "Country": "Hong Kong",
+      "IsoCode": "HK"
+    },
+    {
+      "Country": "Hungary",
+      "IsoCode": "HU"
+    },
+    {
+      "Country": "Iceland",
+      "IsoCode": "IS"
+    },
+    {
+      "Country": "India",
+      "IsoCode": "IN"
+    },
+    {
+      "Country": "Indonesia",
+      "IsoCode": "ID"
+    },
+    {
+      "Country": "Iran",
+      "IsoCode": "IR"
+    },
+    {
+      "Country": "Iraq",
+      "IsoCode": "IQ"
+    },
+    {
+      "Country": "Ireland",
+      "IsoCode": "IE"
+    },
+    {
+      "Country": "Isle of Man",
+      "IsoCode": "IM"
+    },
+    {
+      "Country": "Israel",
+      "IsoCode": "IL"
+    },
+    {
+      "Country": "Italy",
+      "IsoCode": "IT"
+    },
+    {
+      "Country": "Jamaica",
+      "IsoCode": "JM"
+    },
+    {
+      "Country": "Japan",
+      "IsoCode": "JP"
+    },
+    {
+      "Country": "Jersey",
+      "IsoCode": "JE"
+    },
+    {
+      "Country": "Jordan",
+      "IsoCode": "JO"
+    },
+    {
+      "Country": "Kazakhstan",
+      "IsoCode": "KZ"
+    },
+    {
+      "Country": "Kenya",
+      "IsoCode": "KE"
+    },
+    {
+      "Country": "Kiribati",
+      "IsoCode": "KI"
+    },
+    {
+      "Country": "Korea (the Democratic People's Republic of)",
+      "IsoCode": "KP"
+    },
+    {
+      "Country": "S. Korea",
+      "IsoCode": "KR"
+    },
+    {
+      "Country": "Kuwait",
+      "IsoCode": "KW"
+    },
+    {
+      "Country": "Kyrgyzstan",
+      "IsoCode": "KG"
+    },
+    {
+      "Country": "Laos",
+      "IsoCode": "LA"
+    },
+    {
+      "Country": "Latvia",
+      "IsoCode": "LV"
+    },
+    {
+      "Country": "Lebanon",
+      "IsoCode": "LB"
+    },
+    {
+      "Country": "Lesotho",
+      "IsoCode": "LS"
+    },
+    {
+      "Country": "Liberia",
+      "IsoCode": "LR"
+    },
+    {
+      "Country": "Libya",
+      "IsoCode": "LY"
+    },
+    {
+      "Country": "Liechtenstein",
+      "IsoCode": "LI"
+    },
+    {
+      "Country": "Lithuania",
+      "IsoCode": "LT"
+    },
+    {
+      "Country": "Luxembourg",
+      "IsoCode": "LU"
+    },
+    {
+      "Country": "Macao",
+      "IsoCode": "MO"
+    },
+    {
+      "Country": "Madagascar",
+      "IsoCode": "MG"
+    },
+    {
+      "Country": "Malawi",
+      "IsoCode": "MW"
+    },
+    {
+      "Country": "Malaysia",
+      "IsoCode": "MY"
+    },
+    {
+      "Country": "Maldives",
+      "IsoCode": "MV"
+    },
+    {
+      "Country": "Mali",
+      "IsoCode": "ML"
+    },
+    {
+      "Country": "Malta",
+      "IsoCode": "MT"
+    },
+    {
+      "Country": "Marshall Islands (the)",
+      "IsoCode": "MH"
+    },
+    {
+      "Country": "Martinique",
+      "IsoCode": "MQ"
+    },
+    {
+      "Country": "Mauritania",
+      "IsoCode": "MR"
+    },
+    {
+      "Country": "Mauritius",
+      "IsoCode": "MU"
+    },
+    {
+      "Country": "Mayotte",
+      "IsoCode": "YT"
+    },
+    {
+      "Country": "Mexico",
+      "IsoCode": "MX"
+    },
+    {
+      "Country": "Micronesia (Federated States of)",
+      "IsoCode": "FM"
+    },
+    {
+      "Country": "Moldova",
+      "IsoCode": "MD"
+    },
+    {
+      "Country": "Monaco",
+      "IsoCode": "MC"
+    },
+    {
+      "Country": "Mongolia",
+      "IsoCode": "MN"
+    },
+    {
+      "Country": "Montenegro",
+      "IsoCode": "ME"
+    },
+    {
+      "Country": "Montserrat",
+      "IsoCode": "MS"
+    },
+    {
+      "Country": "Morocco",
+      "IsoCode": "MA"
+    },
+    {
+      "Country": "Mozambique",
+      "IsoCode": "MZ"
+    },
+    {
+      "Country": "Myanmar",
+      "IsoCode": "MM"
+    },
+    {
+      "Country": "Namibia",
+      "IsoCode": "NA"
+    },
+    {
+      "Country": "Nauru",
+      "IsoCode": "NR"
+    },
+    {
+      "Country": "Nepal",
+      "IsoCode": "NP"
+    },
+    {
+      "Country": "Netherlands",
+      "IsoCode": "NL"
+    },
+    {
+      "Country": "New Caledonia",
+      "IsoCode": "NC"
+    },
+    {
+      "Country": "New Zealand",
+      "IsoCode": "NZ"
+    },
+    {
+      "Country": "Nicaragua",
+      "IsoCode": "NI"
+    },
+    {
+      "Country": "Niger",
+      "IsoCode": "NE"
+    },
+    {
+      "Country": "Nigeria",
+      "IsoCode": "NG"
+    },
+    {
+      "Country": "Niue",
+      "IsoCode": "NU"
+    },
+    {
+      "Country": "Norfolk Island",
+      "IsoCode": "NF"
+    },
+    {
+      "Country": "Northern Mariana Islands (the)",
+      "IsoCode": "MP"
+    },
+    {
+      "Country": "Norway",
+      "IsoCode": "NO"
+    },
+    {
+      "Country": "Oman",
+      "IsoCode": "OM"
+    },
+    {
+      "Country": "Pakistan",
+      "IsoCode": "PK"
+    },
+    {
+      "Country": "Palau",
+      "IsoCode": "PW"
+    },
+    {
+      "Country": "Palestine",
+      "IsoCode": "PS"
+    },
+    {
+      "Country": "Panama",
+      "IsoCode": "PA"
+    },
+    {
+      "Country": "Papua New Guinea",
+      "IsoCode": "PG"
+    },
+    {
+      "Country": "Paraguay",
+      "IsoCode": "PY"
+    },
+    {
+      "Country": "Peru",
+      "IsoCode": "PE"
+    },
+    {
+      "Country": "Philippines",
+      "IsoCode": "PH"
+    },
+    {
+      "Country": "Pitcairn",
+      "IsoCode": "PN"
+    },
+    {
+      "Country": "Poland",
+      "IsoCode": "PL"
+    },
+    {
+      "Country": "Portugal",
+      "IsoCode": "PT"
+    },
+    {
+      "Country": "Puerto Rico",
+      "IsoCode": "PR"
+    },
+    {
+      "Country": "Qatar",
+      "IsoCode": "QA"
+    },
+    {
+      "Country": "North Macedonia",
+      "IsoCode": "MK"
+    },
+    {
+      "Country": "Romania",
+      "IsoCode": "RO"
+    },
+    {
+      "Country": "Russia",
+      "IsoCode": "RU"
+    },
+    {
+      "Country": "Rwanda",
+      "IsoCode": "RW"
+    },
+    {
+      "Country": "Réunion",
+      "IsoCode": "RE"
+    },
+    {
+      "Country": "St. Barth",
+      "IsoCode": "BL"
+    },
+    {
+      "Country": "Saint Helena, Ascension and Tristan da Cunha",
+      "IsoCode": "SH"
+    },
+    {
+      "Country": "Saint Kitts and Nevis",
+      "IsoCode": "KN"
+    },
+    {
+      "Country": "Saint Lucia",
+      "IsoCode": "LC"
+    },
+    {
+      "Country": "Saint Martin",
+      "IsoCode": "MF"
+    },
+    {
+      "Country": "Saint Pierre Miquelon",
+      "IsoCode": "PM"
+    },
+    {
+      "Country": "St. Vincent Grenadines",
+      "IsoCode": "VC"
+    },
+    {
+      "Country": "Samoa",
+      "IsoCode": "WS"
+    },
+    {
+      "Country": "San Marino",
+      "IsoCode": "SM"
+    },
+    {
+      "Country": "Sao Tome and Principe",
+      "IsoCode": "ST"
+    },
+    {
+      "Country": "Saudi Arabia",
+      "IsoCode": "SA"
+    },
+    {
+      "Country": "Senegal",
+      "IsoCode": "SN"
+    },
+    {
+      "Country": "Serbia",
+      "IsoCode": "RS"
+    },
+    {
+      "Country": "Seychelles",
+      "IsoCode": "SC"
+    },
+    {
+      "Country": "Sierra Leone",
+      "IsoCode": "SL"
+    },
+    {
+      "Country": "Singapore",
+      "IsoCode": "SG"
+    },
+    {
+      "Country": "Sint Maarten",
+      "IsoCode": "SX"
+    },
+    {
+      "Country": "Slovakia",
+      "IsoCode": "SK"
+    },
+    {
+      "Country": "Slovenia",
+      "IsoCode": "SI"
+    },
+    {
+      "Country": "Solomon Islands",
+      "IsoCode": "SB"
+    },
+    {
+      "Country": "Somalia",
+      "IsoCode": "SO"
+    },
+    {
+      "Country": "South Africa",
+      "IsoCode": "ZA"
+    },
+    {
+      "Country": "South Georgia and the South Sandwich Islands",
+      "IsoCode": "GS"
+    },
+    {
+      "Country": "South Sudan",
+      "IsoCode": "SS"
+    },
+    {
+      "Country": "Spain",
+      "IsoCode": "ES"
+    },
+    {
+      "Country": "Sri Lanka",
+      "IsoCode": "LK"
+    },
+    {
+      "Country": "Sudan",
+      "IsoCode": "SD"
+    },
+    {
+      "Country": "Suriname",
+      "IsoCode": "SR"
+    },
+    {
+      "Country": "Svalbard and Jan Mayen",
+      "IsoCode": "SJ"
+    },
+    {
+      "Country": "Sweden",
+      "IsoCode": "SE"
+    },
+    {
+      "Country": "Switzerland",
+      "IsoCode": "CH"
+    },
+    {
+      "Country": "Syria",
+      "IsoCode": "SY"
+    },
+    {
+      "Country": "Taiwan",
+      "IsoCode": "TW"
+    },
+    {
+      "Country": "Tajikistan",
+      "IsoCode": "TJ"
+    },
+    {
+      "Country": "Tanzania",
+      "IsoCode": "TZ"
+    },
+    {
+      "Country": "Thailand",
+      "IsoCode": "TH"
+    },
+    {
+      "Country": "Timor-Leste",
+      "IsoCode": "TL"
+    },
+    {
+      "Country": "Togo",
+      "IsoCode": "TG"
+    },
+    {
+      "Country": "Tokelau",
+      "IsoCode": "TK"
+    },
+    {
+      "Country": "Tonga",
+      "IsoCode": "TO"
+    },
+    {
+      "Country": "Trinidad and Tobago",
+      "IsoCode": "TT"
+    },
+    {
+      "Country": "Tunisia",
+      "IsoCode": "TN"
+    },
+    {
+      "Country": "Turkey",
+      "IsoCode": "TR"
+    },
+    {
+      "Country": "Turkmenistan",
+      "IsoCode": "TM"
+    },
+    {
+      "Country": "Turks and Caicos",
+      "IsoCode": "TC"
+    },
+    {
+      "Country": "Tuvalu",
+      "IsoCode": "TV"
+    },
+    {
+      "Country": "Uganda",
+      "IsoCode": "UG"
+    },
+    {
+      "Country": "Ukraine",
+      "IsoCode": "UA"
+    },
+    {
+      "Country": "UAE",
+      "IsoCode": "AE"
+    },
+    {
+      "Country": "UK",
+      "IsoCode": "GB"
+    },
+    {
+      "Country": "United States Minor Outlying Islands (the)",
+      "IsoCode": "UM"
+    },
+    {
+      "Country": "USA",
+      "IsoCode": "US"
+    },
+    {
+      "Country": "Uruguay",
+      "IsoCode": "UY"
+    },
+    {
+      "Country": "Uzbekistan",
+      "IsoCode": "UZ"
+    },
+    {
+      "Country": "Vanuatu",
+      "IsoCode": "VU"
+    },
+    {
+      "Country": "Venezuela",
+      "IsoCode": "VE"
+    },
+    {
+      "Country": "Vietnam",
+      "IsoCode": "VN"
+    },
+    {
+      "Country": "British Virgin Islands",
+      "IsoCode": "VG"
+    },
+    {
+      "Country": "Virgin Islands (U.S.)",
+      "IsoCode": "VI"
+    },
+    {
+      "Country": "Wallis and Futuna",
+      "IsoCode": "WF"
+    },
+    {
+      "Country": "Western Sahara",
+      "IsoCode": "EH"
+    },
+    {
+      "Country": "Yemen",
+      "IsoCode": "YE"
+    },
+    {
+      "Country": "Zambia",
+      "IsoCode": "ZM"
+    },
+    {
+      "Country": "Zimbabwe",
+      "IsoCode": "ZW"
+    },
+    {
+      "Country": "Åland Islands",
+      "IsoCode": "AX"
+    }
+]
