@@ -2,9 +2,13 @@
 
 This is a small API that fetches the corona case informations from [Worldometers](https://www.worldometers.info/coronavirus/). The Informations can be accessed through the endpoints.
 
+## Build
+
+The api is written in TypeScript. Befor running it you have to build it with `npm run build`.
+
 ## Usage
 
-To start the app use the command `npm start`.
+After building the api use `npm start` to start it.
 
 It is also possible to run the app as an docker container.
 Simply build the image using the following command.
@@ -19,8 +23,6 @@ Or just us the published version.
 ```
 $ docker container run --name coronaapi -p 80:80 -d thedarkmen3000/coronaapi:latest
 ```
-
-or use the published image with the command.
 
 ## Endpoints
 

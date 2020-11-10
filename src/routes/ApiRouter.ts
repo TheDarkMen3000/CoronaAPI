@@ -1,7 +1,6 @@
-const express = require('express');
+import express from 'express';
 
-const CountryCache = require('../models/CountryCache');
-
+import CountryCache from '../models/CountryCache';
 
 const router = express.Router();
 
@@ -23,6 +22,4 @@ router.get('/cases/:country', async (req, res) => {
     }
 });
 
-module.exports = {
-    router: router,
-};
+export default router;
