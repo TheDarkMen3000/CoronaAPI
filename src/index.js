@@ -11,7 +11,5 @@ const port = process.env.PORT || 3000;
 app.use('/api', ApiRouter.router);
 
 app.listen(port, () => {
-    ApiRouter.getData();
-
     console.log(`Now listining on port ${port}.`);
 });
