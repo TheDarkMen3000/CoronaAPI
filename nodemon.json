@@ -2,10 +2,10 @@
 	"ignore": [
 		"node_modules/*",
 		".git/*",
-		"src/**"
+		"build/**"
 	],
 	"watch": [
-		"build"
+		"src/**/*"
 	],
-	"exec": "npm start"
+	"exec": "npm start:dev"
 }

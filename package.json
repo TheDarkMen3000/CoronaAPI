@@ -2,20 +2,18 @@
   "name": "coronaapi",
   "version": "0.0.1",
   "description": "An API which returns the case numbers per country.",
-  "main": "src/index.js",
   "scripts": {
     "start": "node build/src/index.js",
-    "start:dev": "nodemon",
-    "build": "tsc",
-    "build:dev": "tsc -w",
-    "develop": "npm-run-all -p build:dev start:dev"
+    "start:dev": "ts-node src/index.ts",
+    "dev": "nodemon",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheDarkMen3000/CoronaAPI.git"
   },
-  "author": "TheDarkMen3000",
-  "license": "ISC",
+  "author": "philskat",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/TheDarkMen3000/CoronaAPI/issues"
   },
@@ -30,7 +28,7 @@
     "@types/jsdom": "^16.2.5",
     "@types/node-fetch": "^2.5.7",
     "nodemon": "^2.0.4",
-    "npm-run-all": "^4.1.5",
+    "ts-node": "^9.1.1",
     "typescript": "^4.0.5"
   }
 }
