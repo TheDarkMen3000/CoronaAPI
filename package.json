@@ -20,7 +20,7 @@
   "homepage": "https://github.com/TheDarkMen3000/CoronaAPI#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jsdom": "^16.4.0",
+    "jsdom": "^16.5.3",
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
